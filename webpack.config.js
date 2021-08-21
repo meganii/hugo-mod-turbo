@@ -5,6 +5,6 @@ module.exports = {
     entry: './src/index.js',
     output: {
         filename: 'turbo.js',
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'assets/jslibs/turbo'),
     },
 };
